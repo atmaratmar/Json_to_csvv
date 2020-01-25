@@ -1,0 +1,30 @@
+{
+  "Students": {
+    "Student": [
+      {
+        "@Country": "USA",
+        "Name": "Mark",
+        "Gender": "Male",
+        "TotalMarks": "800"
+      },
+      {
+        "@Country": "USA",
+        "Name": "Rosy",
+        "Gender": "Female",
+        "TotalMarks": "900"
+      },
+      {
+        "@Country": "India",
+        "Name": "Pam",
+        "Gender": "Female",
+        "TotalMarks": "850"
+      },
+      {
+        "@Country": "India",
+        "Name": "John",
+        "Gender": "Male",
+        "TotalMarks": "950"
+      }
+    ]
+  }
+}
